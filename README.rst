@@ -46,4 +46,4 @@ Currently only tests creation of objects.  Additional tests need to be written b
 Limitations
 =========
 
-Usage and Limitations are documents in the _`Examples notebook <https://github.com/sampathweb/contours-processor/tree/master/example-usage.ipynb>`_
+Usage and Limitations are documents in the `Examples notebook <https://github.com/sampathweb/contours-processor/tree/master/example-usage.ipynb>`_
